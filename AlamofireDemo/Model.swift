@@ -2,7 +2,7 @@
 //  Model.swift
 //  AlamofireDemo
 //
-//  Created by Saddam Al Amin on 3/20/18.
+//  Created by  Al Amin on 3/20/18.
 //  Copyright © 2018 Al Amin. All rights reserved.
 //
 
@@ -18,12 +18,8 @@ class CountryModel: EVObject {
 
 class RestResponses: EVObject {
     
-    var messages: [MessageData]?
+    var messages: [String]?
     var result: [CountryList]?
-}
-
-class MessageData: EVObject {
-    
 }
 
 class CountryList: EVObject {

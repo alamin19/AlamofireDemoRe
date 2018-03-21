@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  AlamofireDemo
 //
-//  Created by Saddam Al Amin on 3/20/18.
+//  Created by  Al Amin on 3/20/18.
 //  Copyright © 2018 Al Amin. All rights reserved.
 //
 
